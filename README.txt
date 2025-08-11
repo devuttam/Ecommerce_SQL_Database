@@ -34,14 +34,8 @@ The dataset `ecommerce\\\_data` contains the following columns:
 
 ---
 
-## 🛠️ Setup & Installation
 
-### 1. Clone the Repository
-```bash
 
-git clone https://github.com/<your-username>/mysql-ecommerce-analysis.git
-
-cd mysql-ecommerce-analysis
 
 
 
